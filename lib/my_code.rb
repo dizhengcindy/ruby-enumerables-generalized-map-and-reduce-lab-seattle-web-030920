@@ -24,3 +24,5 @@ def reduce(array, starting_value = nil)
   end
   num 
 end
+
+reduce([1,2,3])
