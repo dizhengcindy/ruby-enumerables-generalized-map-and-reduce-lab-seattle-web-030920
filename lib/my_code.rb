@@ -25,4 +25,4 @@ def reduce(array, starting_value = nil)
   num 
 end
 
-reduce([1,2,3],100)){|memo, n| memo + n}
+reduce([1,2,3],100){|memo, n| memo + n}
