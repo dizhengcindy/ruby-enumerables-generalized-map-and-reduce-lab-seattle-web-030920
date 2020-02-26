@@ -26,4 +26,3 @@ def reduce(array, starting_value = nil)
   num 
 end
 
-puts reduce([1,2,3],100)
